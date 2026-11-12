@@ -42,7 +42,7 @@
 
 | 课程 | 主要内容 |
 | --- | --- |
-| 1. Week 2 Introduction | AI 项目的整体流程和本周学习目标。 |
+| 1. Week 3 Introduction | AI 项目的整体流程和本周学习目标。 |
 | 2. Workflow of a Machine Learning Project | 机器学习项目的工作流程：确定问题、收集数据、训练模型、评估模型、部署应用。 |
 | 3. Workflow of a Data Science Project | 数据科学项目的工作流程：数据收集、分析、发现规律、形成业务决策。 |
 | 4. Every Job Function Needs to Learn How to Use Data | 为什么企业中的每个岗位都应该具备数据思维。 |
