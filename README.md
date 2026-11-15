@@ -51,7 +51,17 @@
 | 7. Working with an AI Team | 如何与 AI 工程师、数据科学家、产品经理等团队成员合作。 |
 | 8. Technical Tools for AI Teams（选修） | 了解 AI 团队常用的技术工具和开发环境。 |
 
+### Week 4 AI and Society（人工智能与社会）
+未来与社会影响
 
+1. AI 对社会产生的影响。
 
+2. Discrimination / Bias	AI 偏见与歧视：训练数据中的偏见如何影响 AI 决策。
+   
+3. Adversarial Attacks on AI	对抗性攻击：为什么一些经过精心设计的输入可能欺骗 AI 系统。
+
+4. AI and Jobs	AI 对就业、职业结构和未来工作方式的影响。
+
+5. Conclusion	总结课程，思考人工智能时代人类应该如何参与和适应。
 
 
